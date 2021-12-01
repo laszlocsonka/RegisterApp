@@ -15,13 +15,8 @@ Login and Registration app made with Android Studio
 1.Install Xampp<br/>
 2.In Xampp start Apache and MySQL<br/>
 3.Create database (I gave it the name 'register') in phpMyAdmin (id,name,email,password)<br/>
-4.Put register.php and login.php files in 'xampp/htdocs' folder<br/>
+4.Put <a href="https://drive.google.com/file/d/1cuM--GW5ZqK-zA82UIFVDaai-bB-TrLL/view?usp=sharing" onClick="MyWindow=window.open('https://www.google.com','MyWindow','width=600,height=300'); return false;">register.php</a> and <a href="https://drive.google.com/file/d/1M8T8RmhXQ5xhWGA2zEE-fqQmS54-fDEG/view?usp=sharing" onClick="MyWindow=window.open('https://www.google.com','MyWindow','width=600,height=300'); return false;">login.php</a> files in 'xampp/htdocs' folder<br/>
 
-<a href="https://drive.google.com/file/d/1M8T8RmhXQ5xhWGA2zEE-fqQmS54-fDEG/view?usp=sharing" onClick="MyWindow=window.open('https://www.google.com','MyWindow','width=600,height=300'); return false;">register.php</a>
-
-
-
-<a href="https://drive.google.com/file/d/1cuM--GW5ZqK-zA82UIFVDaai-bB-TrLL/view?usp=sharing" onClick="MyWindow=window.open('https://www.google.com','MyWindow','width=600,height=300'); return false;">register.php</a>
 5.In 'Constants.java' change BASE_URL to your ip adress like 'http://###.###.###.###/'<br/>
 6.The app is ready to test
 <br/> 
