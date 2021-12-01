@@ -5,10 +5,19 @@ Login and Registration app made with Android Studio
 <br/> 
  
 <ul>
-  <li>Java language</li>
   <li>Using Retrofit, OkHttpClient, HttpLoggingInterceptor</li>
+  <li>Java language</li>
+  <li>Modern Login UI</li>
   <li>Tested with localhost</li>
 </ul> 
+
+<br/> 
+1.Install Xampp
+2.In Xampp start Apache and MySQL
+3.Create database (I gave it the name 'register') in phpMyAdmin (id,name,email,password)
+4.Put register.php and login.php files in 'xampp/htdocs' folder 
+5.In 'Constants.java' change BASE_URL to your ip adress like 'http://xxx.xxx.xxx.xxx/'
+6.The app is ready to test
 
 <br/> 
 
