@@ -12,11 +12,11 @@ Login and Registration app made with Android Studio
 </ul> 
 
 <br/> 
-1.Install Xampp
-2.In Xampp start Apache and MySQL
-3.Create database (I gave it the name 'register') in phpMyAdmin (id,name,email,password)
-4.Put register.php and login.php files in 'xampp/htdocs' folder 
-5.In 'Constants.java' change BASE_URL to your ip adress like 'http://xxx.xxx.xxx.xxx/'
+1.Install Xampp<br/>
+2.In Xampp start Apache and MySQL<br/>
+3.Create database (I gave it the name 'register') in phpMyAdmin (id,name,email,password)<br/>
+4.Put register.php and login.php files in 'xampp/htdocs' folder<br/>
+5.In 'Constants.java' change BASE_URL to your ip adress like 'http://xxx.xxx.xxx.xxx/'<br/>
 6.The app is ready to test
 
 <br/> 
